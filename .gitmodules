@@ -1,73 +1,73 @@
 [submodule "idr0000-lastname-example"]
 	path = idr0000-lastname-example
-	url = git://github.com/IDR/idr0000-lastname-example
+	url = git://github.com/snoopycrimecop/idr0000-lastname-example
 	branch = master
 [submodule "idr0040-aymoz-singlecell"]
 	path = idr0040-aymoz-singlecell
-	url = git://github.com/IDR/idr0040-aymoz-singlecell
+	url = git://github.com/snoopycrimecop/idr0040-aymoz-singlecell
 [submodule "idr0041-cai-mitoticatlas"]
 	path = idr0041-cai-mitoticatlas
-	url = git://github.com/IDR/idr0041-cai-mitoticatlas
+	url = git://github.com/snoopycrimecop/idr0041-cai-mitoticatlas
 [submodule "idr0042-nirschl-wsideeplearning"]
 	path = idr0042-nirschl-wsideeplearning
-	url = git://github.com/IDR/idr0042-nirschl-wsideeplearning
+	url = git://github.com/snoopycrimecop/idr0042-nirschl-wsideeplearning
 [submodule "idr0021-lawo-pericentriolarmaterial"]
 	path = idr0021-lawo-pericentriolarmaterial
-	url = git://github.com/IDR/idr0021-lawo-pericentriolarmaterial
+	url = git://github.com/snoopycrimecop/idr0021-lawo-pericentriolarmaterial
 [submodule "idr0008-rohn-actinome"]
 	path = idr0008-rohn-actinome
-	url = git://github.com/IDR/idr0008-rohn-actinome
+	url = git://github.com/snoopycrimecop/idr0008-rohn-actinome
 [submodule "idr0045-reichmann-zygotespindle"]
 	path = idr0045-reichmann-zygotespindle
-	url = git://github.com/IDR/idr0045-reichmann-zygotespindle
+	url = git://github.com/snoopycrimecop/idr0045-reichmann-zygotespindle
 [submodule "idr0043-uhlen-humanproteinatlas"]
 	path = idr0043-uhlen-humanproteinatlas
-	url = git://github.com/IDR/idr0043-uhlen-humanproteinatlas
+	url = git://github.com/snoopycrimecop/idr0043-uhlen-humanproteinatlas
 [submodule "idr0051-fulton-tailbudlightsheet"]
 	path = idr0051-fulton-tailbudlightsheet
-	url = git://github.com/IDR/idr0051-fulton-tailbudlightsheet
+	url = git://github.com/snoopycrimecop/idr0051-fulton-tailbudlightsheet
 [submodule "idr0044-mcdole-tardislightsheet"]
 	path = idr0044-mcdole-tardislightsheet
-	url = git://github.com/IDR/idr0044-mcdole-tardislightsheet
+	url = git://github.com/snoopycrimecop/idr0044-mcdole-tardislightsheet
 [submodule "idr0047-neuert-yeastmrna"]
 	path = idr0047-neuert-yeastmrna
-	url = git://github.com/IDR/idr0047-neuert-yeastmrna
+	url = git://github.com/snoopycrimecop/idr0047-neuert-yeastmrna
 [submodule "idr0053-faas-virtualnanoscopy"]
 	path = idr0053-faas-virtualnanoscopy
-	url = git://github.com/IDR/idr0053-faas-virtualnanoscopy
+	url = git://github.com/snoopycrimecop/idr0053-faas-virtualnanoscopy
 [submodule "idr0050-springer-cytoskeletalsystems"]
 	path = idr0050-springer-cytoskeletalsystems
-	url = git://github.com/IDR/idr0050-springer-cytoskeletalsystems.git
+	url = git://github.com/snoopycrimecop/idr0050-springer-cytoskeletalsystems.git
 [submodule "idr0034-kilpinen-hipsci"]
 	path = idr0034-kilpinen-hipsci
-	url = git://github.com/IDR/idr0034-kilpinen-hipsci
+	url = git://github.com/snoopycrimecop/idr0034-kilpinen-hipsci
 [submodule "idr0037-vigilante-hipsci"]
 	path = idr0037-vigilante-hipsci
-	url = git://github.com/IDR/idr0037-vigilante-hipsci
+	url = git://github.com/snoopycrimecop/idr0037-vigilante-hipsci
 [submodule "idr0054-segura-tonsilhyperion"]
 	path = idr0054-segura-tonsilhyperion
-	url = git://github.com/IDR/idr0054-segura-tonsilhyperion
+	url = git://github.com/snoopycrimecop/idr0054-segura-tonsilhyperion
 [submodule "idr0052-walther-condensinmap"]
 	path = idr0052-walther-condensinmap
-	url = git://github.com/IDR/idr0052-walther-condensinmap
+	url = git://github.com/snoopycrimecop/idr0052-walther-condensinmap
 [submodule "idr0002-heriche-condensation"]
 	path = idr0002-heriche-condensation
-	url = git://github.com/IDR/idr0002-heriche-condensation
+	url = git://github.com/snoopycrimecop/idr0002-heriche-condensation
 [submodule "idr0017-breinig-drugscreen"]
 	path = idr0017-breinig-drugscreen
-	url = git://github.com/IDR/idr0017-breinig-drugscreen
+	url = git://github.com/snoopycrimecop/idr0017-breinig-drugscreen
 [submodule "idr0018-neff-histopathology"]
 	path = idr0018-neff-histopathology
-	url = git://github.com/IDR/idr0018-neff-histopathology
+	url = git://github.com/snoopycrimecop/idr0018-neff-histopathology
 [submodule "idr0019-sero-nfkappab"]
 	path = idr0019-sero-nfkappab
-	url = git://github.com/IDR/idr0019-sero-nfkappab
+	url = git://github.com/snoopycrimecop/idr0019-sero-nfkappab
 [submodule "idr0062-blin-nuclearsegmentation"]
 	path = idr0062-blin-nuclearsegmentation
-	url = git://github.com/IDR/idr0062-blin-nuclearsegmentation
+	url = git://github.com/snoopycrimecop/idr0062-blin-nuclearsegmentation
 [submodule "idr0061-wolf-spindlepositioning"]
 	path = idr0061-wolf-spindlepositioning
-	url = git://github.com/IDR/idr0061-wolf-spindlepositioning
+	url = git://github.com/snoopycrimecop/idr0061-wolf-spindlepositioning
 [submodule "idr0007-srikumar-sumo"]
 	path = idr0007-srikumar-sumo
-	url = git://github.com/IDR/idr0007-srikumar-sumo
+	url = git://github.com/snoopycrimecop/idr0007-srikumar-sumo
